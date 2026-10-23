@@ -144,6 +144,3 @@ MemGuard/
 
 ---
 
-## License
-
-MIT
